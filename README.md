@@ -30,13 +30,11 @@ The dataset used in this analysis includes:
 - **Sales data**: Details on product sales, revenues, and trends over time.
 - **Customer reviews**: Sentiment and qualitative feedback from users on various platforms.
 - **Competitor data**: Market performance of key competitors in the audio products space.
-- **Demographic data**: Information on customer segments, including age, gender, and location.
 
 ## 3. Exploratory Data Analysis (EDA)
 In this section, detailed exploratory data analysis is conducted to uncover patterns and trends in the data. Key analyses include:
-- **Sales performance**: Trends in product sales over time and seasonality effects.
+- **Sales performance**: Trends in product sales over time.
 - **Product popularity**: Identifying which products resonate the most with consumers.
-- **Customer segmentation**: Breaking down the consumer base by demographics to identify target audiences.
 - **Market trends**: Insights into broader market trends that affect the brand’s performance.
 
 ## 4. Sentiment Analysis
@@ -66,8 +64,8 @@ Based on the analysis, several strategic recommendations are made to help Beats 
 This project highlights how data-driven consumer insights can empower Beats by Dre to make strategic decisions and stay competitive in the audio products market. By leveraging data analytics, the brand can better understand its consumers, adapt to market trends, and refine its business strategies for long-term success.
 
 ## 9. References
-- Customer reviews and sentiment data sourced from [amazon.com].
-- Sales and market data acquired through [amazon.com].
+- Customer reviews and sentiment data sourced from [Amazon USA](https://www.amazon.com).
+- Sales and market data acquired through [Amazon USA](https://www.amazon.com).
 - NLP techniques and AI models applied through [Python libraries such as NLTK, TextBlob, and others].
 
 ## Acknowledgements
