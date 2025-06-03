@@ -73,4 +73,3 @@ This project was developed as part of an externship in data analytics. Special t
 
 ## Author
 **Shashank Sinha**  
-[LinkedIn Profile](https://www.linkedin.com/in/theshashanksinha/)
